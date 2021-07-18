@@ -1,3 +1,3 @@
 Files to configure WSL + Windows Terminal + starship 
-## Windows Termital
+### Windows Terminal
 ![Wsl+Windows Terminal](windows-terminal-ubuntu.png)
