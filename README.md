@@ -4,3 +4,6 @@ Files to configure WSL + Windows Terminal + starship
 
 Sample:
 https://gist.github.com/ryo-ARAKI/48a11585299f9032fa4bda60c9bba593
+
+Configuration:
+https://starship.rs/config/
